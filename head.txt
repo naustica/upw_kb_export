@@ -1,0 +1,1 @@
+doi,is_oa,journal_is_in_doaj,journal_is_oa,oa_status,has_repository_copy,is_paratext,evidence,host_type,is_best,license,oa_date,repository_institution,url_for_landing_page,url_for_pdf
