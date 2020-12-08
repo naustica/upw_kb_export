@@ -24,7 +24,7 @@ tree export-ordner
 export-ordner
 ├──filter.py
 ├──head.txt
-├──kb_doi_list_w_header.csv   [DOI-Liste ohne Header!]
+├──kb_doi_list_w_header.csv   [DOI-Liste mit Header "doi"!]
 ├──output
 ├──output_kb
 ├──output_upw
