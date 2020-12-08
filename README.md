@@ -25,6 +25,7 @@ export-ordner
 ├──filter.py
 ├──head.txt
 ├──kb_doi_list_w_header.csv   [DOI-Liste mit Header "doi"!]
+├──merge
 ├──output
 ├──output_kb
 ├──output_upw
@@ -41,6 +42,8 @@ Das Skript lässt sich mit folgendem Befehl starten.
 ```bash
 sh wos_upw_export.sh
 ```
+
+Die finale Datei `out.csv` liegt anschließend im Ordner `merge`.
 
 ## Skript modifizieren
 
