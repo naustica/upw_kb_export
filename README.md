@@ -1,4 +1,4 @@
-# Export von Unpaywall-Datensätze für die KB-Datenbank
+# Export von Unpaywall-Daten für die KB-Datenbank
 
 ## Voraussetzungen
 
@@ -33,7 +33,7 @@ export-ordner
 ├──wos_upw_export_hpc.sh
 ```
 
-**Wichtig hierbei ist, dass die Ordner output, output_kb und output_upw existieren und leer sind.**
+**Wichtig ist, dass die Ordner merge, output, output_kb und output_upw existieren und leer sind.**
 
 ## Skript starten
 
